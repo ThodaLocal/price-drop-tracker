@@ -71,4 +71,4 @@ delhi-price-tracker/
 
 ## Author
 
-**Mehul Rao** — Zero To Empire
+**Mehul Rao**
