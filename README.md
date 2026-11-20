@@ -52,8 +52,8 @@ Report saved to price_report.txt
 ## Project Structure
 
 ```
-delhi-price-tracker/
-├── tracker.py        # Loads the watchlist, checks prices, prints alerts, saves the report
+price-drop-tracker/
+├── tracker.py      # Main script: reads products.csv, compares prices, writes report
 ├── products.csv      # Watchlist: product name, store URL and target price
 └── README.md
 ```
